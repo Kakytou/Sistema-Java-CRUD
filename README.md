@@ -1,13 +1,11 @@
 # **Sistema de Controle de Estoque**
 
-Meu primeiro projeto de CRUD em Java
-
-Sistema de Controle de Estoque
+## Meu projeto de CRUD em Java
 
 Este projeto é um sistema simples para gerenciar produtos em um estoque utilizando Java Swing para a interface gráfica e MySQL como banco de dados.
 O sistema permite cadastrar, consultar, alterar e excluir produtos, consolidando os dados em uma tabela do MySQL. O objetivo é demonstrar a integração entre uma aplicação desktop Java e um banco de dados relacional, servindo como base para sistemas mais complexos de gerenciamento empresarial.
 
-Tecnologias
+## Tecnologias
 
 Java 8+: Linguagem de programação principal.
 
