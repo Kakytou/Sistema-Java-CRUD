@@ -35,3 +35,5 @@ Conexão e manipulação de banco de dados MySQL usando JDBC.
 Implementação de CRUD completo, controlando inserção, leitura, atualização e exclusão de dados.
 
 Organização de código em pacotes e classes para melhor manutenção e escalabilidade.
+
+Uso de eventos e listeners para interação com botões e tabelas.
